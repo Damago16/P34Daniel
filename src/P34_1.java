@@ -5,5 +5,8 @@ public class P34_1 {
 		// TODO Auto-generated method stub
 
 	}
+	public void jamesito(){
+		return 0;
+	}
 
 }
