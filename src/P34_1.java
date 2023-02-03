@@ -6,7 +6,10 @@ public class P34_1 {
 
 	}
 	public int cambioDaniel(){
+
+
+	public void jamesito(){
+
 		return 0;
 	}
-
 }
